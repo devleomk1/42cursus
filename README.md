@@ -7,7 +7,7 @@
 | Circle | Project | Description | Status |
 |:---:|:---|:---|:---:|
 | 0 | [Libft](https://github.com/devleomk1/Libft) | My very first own C library | ![jisokang's Libft Score](https://badge42.herokuapp.com/api/project/jisokang/Libft) |
-| 1 | [get_next_line](https://github.com/devleomk1/get_next_line) | Reading a line on a fd is way too tedious | ![jisokang's get_next_line Score](https://badge42.herokuapp.com/api/project/jisokang/get_next_line) |
+| 1 | [get-next-line](https://github.com/devleomk1/get-next-line) | Reading a line on a fd is way too tedious | ![jisokang's get_next_line Score](https://badge42.herokuapp.com/api/project/jisokang/get_next_line) |
 |   | [ft_printf](https://github.com/devleomk1/ft_printf) | Because putnbr and putstr aren’t enough | ![jisokang's ft_printf Score](https://badge42.herokuapp.com/api/project/jisokang/ft_printf) |
 |   | netwhat | Understand how network works | ![jisokang's netwhat Score](https://badge42.herokuapp.com/api/project/jisokang/netwhat) |
 | 2 | [ft_server](https://github.com/devleomk1/ft_server) | System Administration with Docker | ![jisokang's ft_server Score](https://badge42.herokuapp.com/api/project/jisokang/ft_server) |
