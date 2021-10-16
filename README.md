@@ -1,7 +1,8 @@
 # 42cursus
 42Seoul에서 진행하고 있는 본과정 프로젝트.
 
-[![jisokang's 42 stats](https://badge42.herokuapp.com/api/stats/jisokang)](https://profile.intra.42.fr/users/jisokang)
+[![jisokang's 42 stats](https://badge42.herokuapp.com/api/stats/jisokang)](https://profile.intra.42.fr/users/jisokang) [![jisokang's 42pscine stats](https://badge42.herokuapp.com/api/stats/jisokang?cursus=C%20Piscine)](https://profile.intra.42.fr/users/jisokang)
+
 
 ## PROJECT
 | Circle | Project | Description | Status |
