@@ -15,7 +15,9 @@
 |   | [minitalk](https://github.com/devleomk1/minitalk) | Data exchange program using UNIX signals. | ![jisokang's minitalk Score](https://badge42.herokuapp.com/api/project/jisokang/minitalk) |
 |   | [push_swap](https://github.com/devleomk1/push_swap) | Sort data on a stack, with a limited set of instructions. | ![jisokang's push_swap Score](https://badge42.herokuapp.com/api/project/jisokang/push_swap) |
 |   | [so_long](https://github.com/devleomk1/so_long) | Small 2D game with textures, sprites and basic gameplay elements. | ![jisokang's so_long Score](https://badge42.herokuapp.com/api/project/jisokang/so_long) |
-| 3 | [Philosophers](https://github.com/devleomk1/philosophers) | Implement Dining philosophers problem | ![jisokang's philosophers Score](https://badge42.herokuapp.com/api/project/jisokang/Philosophers) |
+| 3 | [Philosophers](https://github.com/devleomk1/philosophers) | Implement Dining Philosophers problem | ![jisokang's philosophers Score](https://badge42.herokuapp.com/api/project/jisokang/Philosophers) |
+|   | [minishell](https://github.com/42days-left/minishell) | Create a simple shell. | ![jisokang's minishell Score](https://badge42.herokuapp.com/api/project/jisokang/minishell) |
+| 4 | [cub3d](https://github.com/devleomk1/cub3d) | Create a [wolf3d](https://github.com/id-Software/wolf3d). | ![jisokang's cub3d Score](https://badge42.herokuapp.com/api/project/jisokang/cub3d) |
 
 ## REFERENCE
 - [이 리포지토리](https://github.com/cos18/42cursus)의 표를 가져와 작성했습니다.
